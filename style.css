@@ -1,6 +1,7 @@
 .dropbtn {
   border: none;
   background-color: white;
+  font-family: 'Arima Madurai', cursive;
 }
 .dropdown-content {
   display: none;
@@ -15,4 +16,19 @@
   display: block;
   background-color: white;
 }
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
 .dropdown:hover .dropdown-content {display: block;}
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+body {
+  font-family: 'Arima Madurai', cursive;;
+}
