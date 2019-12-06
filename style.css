@@ -32,6 +32,7 @@ h1 {
 body {
   font-family: 'Arima Madurai', cursive;
   text-align: center;
+  background-color: rgb(218, 174, 177)
 }
 p {
   font-size: 20px;
@@ -56,6 +57,18 @@ td {
   height: 500px;
   width: 500px;
 }
-.table {
+.hometable {
   background-color: white;
+}
+.table2 {
+
+}
+.td1 {
+  height: auto;
+  width: 600px;
+  text-align: center;
+}
+ul {
+  text-align: center;
+  list-style-position: inside;
 }
