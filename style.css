@@ -72,3 +72,26 @@ ul {
   text-align: center;
   list-style-position: inside;
 }
+.td2 {
+  text-align: center;
+}
+.disney {
+  height: 700px;
+  width: 700px;
+}
+.universal {
+  height: 600px;
+  width: 850px;
+}
+.honolulu {
+  height: 700px;
+  width: 900px;
+}
+.newyorkcity {
+  height: 675px;
+  width: 900px;
+}
+.losangeles {
+  height: 600px;
+  width: 900px;
+}
